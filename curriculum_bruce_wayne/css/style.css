@@ -1,0 +1,38 @@
+
+h1{color:blue;
+    background-color: rgba(41, 39, 39, 0.096);
+    text-align: center;
+    text-transform: uppercase;
+
+}
+h2{color:blue;
+    background-color: cornflowerblue;
+    
+        
+        
+        background-color: rgba(41, 39, 39, 0.096);
+      text-transform: uppercase;
+
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    color: white;
+    background-color: teal;
+    text-align: center;
+}
+
+.nolist li{
+    list-style: none;
+
+}
+.black{
+    color: black;
+}
+.negrita li{
+    font-weight:bold;
+
+}
