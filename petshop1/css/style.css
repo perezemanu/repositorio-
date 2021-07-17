@@ -1,0 +1,78 @@
+
+body{
+    background-color: burlywood;
+    font-family: 'Roboto', sans-serif;
+
+    }
+    h2{
+        text-align: center;
+    }
+    footer{
+        text-align: center;
+        background-color: #3C2313;
+        
+        color:white
+
+    }
+    
+    
+    .patita{
+        text-align: center;
+        font-weight: bold;
+
+    }
+    main { 
+        text-align: center;
+    }
+    
+    
+    ul.horizontal li {
+        display: inline;
+        padding-right: 0.5em;
+        color: white;
+        
+      }
+
+    header{
+        background-color: #F0A83E;
+        
+    }
+    .centrado{
+        text-align: center;
+        font-family: Roboto;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 47px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }
+    h2{
+        color: #3C2313;
+
+    }
+
+
+    .form{
+        text-align: center;
+    }
+    .medio{
+        font-family: Roboto;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    }
+    .fas{
+        text-align: right;
+    }
+    h3{
+        font-size: 30px;
+    }
+    .medio{
+        font-size: 15px;
+    }
