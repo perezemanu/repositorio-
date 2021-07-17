@@ -1,32 +1,35 @@
 
 h1{color:blue;
-    background-color: rgba(41, 39, 39, 0.096);
+    background-color:ligh;
     text-align: center;
     text-transform: uppercase;
 
 }
 h2{color:blue;
-    background-color: cornflowerblue;
+    background-color:lightgray;
     
         
         
-        background-color: rgba(41, 39, 39, 0.096);
+        
       text-transform: uppercase;
 
 }
 
 header{
     text-align: center;
+    background-color:#E5E5E5;
 }
 
 footer{
     color: white;
     background-color: teal;
     text-align: center;
+    
 }
 
 .nolist li{
     list-style: none;
+    text-indent: 3%;
 
 }
 .black{
@@ -34,5 +37,10 @@ footer{
 }
 .negrita li{
     font-weight:bold;
+    color:rgb(0,255,0)
+
+}
+span{
+    font-weight: bold;
 
 }
