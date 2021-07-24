@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+h1, h2, footer,button,p {
+    font-family: Roboto;
+    
+}
+header h2{
+    margin:0;
+    padding: 25px 20px;
+    background-color: #1CD1B0;
+    font-weight: 300;
+}
+h1 {
+    margin-top: 0;
+    margin-bottom: 6rem;
+    background-color: #00669F;
+    font-size: 40px;
+    padding: 20px 30px;
+    font-weight: 500;
+    position: sticky;
+    z-index: 2;
+    top: 0;
+}
+
+.estructura{
+    display:flex;
+    justify-content: space-around;
+}
+
+.heroe {
+    border-radius: 100%;
+    position: absolute;
+    z-index: 1;
+    left: 30%;
+    top: 25%;
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: #F3F3F3;
+    width: 300px;
+}
+.corazon{
+    position:absolute;
+    top: 4%;
+    left:4%;
+
+}
+p{
+    margin:auto;
+    width: 89%;
+    font-size: 1rem;
+}
+
+button{
+    margin-top: 2rem;
+    padding: 0.8rem;
+    background-color: #00669F;
+    color: #FFF9F9;
+    /* text-align: center;
+    position: relative;
+    left:35%; */
+    align-self: center;
+    font-size: 15px;
+    
+    
+}
+
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+    background-color: #00669F;
+    color: #FFF9F9;
+    padding: 5px 15px;
+}
+
+article h3{
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 25px;
+}
+body{
+    padding: 0;
+    margin:0;
+}
